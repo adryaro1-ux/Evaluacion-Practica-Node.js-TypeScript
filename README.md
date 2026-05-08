@@ -9,3 +9,11 @@ Este repositorio contiene la solución a los dos ejercicios planteados en la pri
 > **Cédula**: 30.300.030
 
 ## 📂 Estructura del Proyecto
+
+📦 proyecto-node
+├── 📁 ejercicio-1
+│ ├── servidor.js # Servidor HTTP
+│ ├── vista_inicio.html # Formulario
+│ └── vista_resultado.html # Resultado
+└── 📁 ejercicio-2
+└── peliculas.ts # Enums TypeScript
