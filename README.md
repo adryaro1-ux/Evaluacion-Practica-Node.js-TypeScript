@@ -12,7 +12,9 @@ Este repositorio contiene la solución a los dos ejercicios planteados en la pri
 
 ### Ejercicio 1\
 > Servidor.js
+
 > Vista_inicial.html
+
 > Vista_resultado.html
   
 ### Ejercicio 2\
