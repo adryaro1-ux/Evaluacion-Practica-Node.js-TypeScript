@@ -8,16 +8,12 @@ Este repositorio contiene la solución a los dos ejercicios planteados en la pri
 > **👨‍🎓 Estudiante**: Adrian Romero  
 > **Cédula**: 30.300.030
 
-# Proyecto-Node\
+## Proyecto-Node\
 
-## Ejercicio 1\
- 
-### Servidor.js
+### Ejercicio 1\
+> Servidor.js
+> Vista_inicial.html
+> Vista_resultado.html
   
-### Vista_inicial.html
-  
-### Vista_resultado.html
-  
-## Ejercicio 2\
-
-### Películas.ts
+### Ejercicio 2\
+> Películas.ts
