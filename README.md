@@ -6,6 +6,6 @@ Este repositorio contiene la solución a los dos ejercicios planteados en la pri
 
 > **📚 Unidad Curricular**: Programación III  
 > **👨‍🎓 Estudiante**: Adrian Romero  
-> ** Cédula**: 30.300.030
+> **Cédula**: 30.300.030
 
 ## 📂 Estructura del Proyecto
