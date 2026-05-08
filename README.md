@@ -7,3 +7,11 @@ Este repositorio contiene la solución a los dos ejercicios planteados en la pri
 > **📚 Unidad Curricular**: Programación III  
 > **👨‍🎓 Estudiante**: Adrian Romero  
 > **Cédula**: 30.300.030
+
+Proyecto-Node\
+ •	Ejercicio 1\
+  o	Servidor.js
+  o	Vista_inicial.html
+  o	Vista_resultado.html
+•	Ejercicio 2\
+  o	Películas.ts
